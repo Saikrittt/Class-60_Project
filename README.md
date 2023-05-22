@@ -9,9 +9,6 @@
 
 <body>
 
-    <!-- Link the section MyInspiration in the menu bar below -->
-    <!-- Link the contact section below -->
-
     <ul class="menu">
         <li class="link"><a href="#bio">About</a></li>
         <li class="link"><a href="#References">My favorite books</a></li>
@@ -53,7 +50,6 @@
         <div>
 
             <span>
-                <!--  Add the link, "https://www.jkrowling.com/" to the anchor tag below -->
                 <a href="https://www.jkrowling.com/" target="_blank">
                     <img id="picture" src="jkrowling.jpg">
                 </a>
